@@ -4,6 +4,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## TABLE OF CONTENTS
 
-1. **KNN Classifier**
-  * first one:[GitHub](http://github.com)
+1. **ML Micro Project**
+2. 1. [KNN classifier](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/ML Micro Project/KNN Classifier.ipynb)
 
