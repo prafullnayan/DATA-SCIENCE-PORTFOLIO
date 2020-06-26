@@ -4,6 +4,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## TABLE OF CONTENTS
 
-1. KNN Classifier
-  * first one
+1. **KNN Classifier**
+  * first one:[GitHub](http://github.com)
 
