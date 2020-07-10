@@ -10,3 +10,8 @@ Repository containing portfolio of data science projects completed by me for aca
     2. [Kingcounty House Price prediction](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/ML%20Micro%20Projects/kingcounty_houseprice%20prediction%20by%20neural%20network.ipynb)    
         * The dataset is collected from kaggle site .In this project **Exploratory Data Analysis** is done and prediction of house price prediction is done on unknown dataset.
         * To predict the price i have used neural network.
+    3. [Cancer Classification](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/ML%20Micro%20Projects/cancer_classification.ipynb)
+        * By using neural network cancer prediction is done with 0.99 accuracy
+        * Exploratory Data Analysis is also done. 
+      
+      
