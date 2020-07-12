@@ -14,7 +14,7 @@ Repository containing portfolio of data science projects completed by me for aca
         * By using neural network cancer prediction is done with 0.99 accuracy
         * Exploratory Data Analysis is also done. 
 2. **Deep Learning Projects**
-     1. [LenderClub Loan Prediction](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/LenderClub_Loan_prediction.ipynb)
+     1. [LenderClub Loan Prediction](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/Deep%20Learning%20Projects/LenderClub_Loan_prediction.ipynb)
         * Dataset is collected from Kaggle.
         * We have to build a model to predict whether the LenderClub company should give the loans to their customer or not.
         * I have used ANN to build the model.
