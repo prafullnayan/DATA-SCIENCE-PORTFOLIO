@@ -13,5 +13,15 @@ Repository containing portfolio of data science projects completed by me for aca
     3. [Cancer Classification](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/ML%20Micro%20Projects/cancer_classification.ipynb)
         * By using neural network cancer prediction is done with 0.99 accuracy
         * Exploratory Data Analysis is also done. 
+2. **Deep Learning Projects**
+     1. [LenderClub Loan Prediction](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/LenderClub_Loan_prediction.ipynb)
+        * Dataset is collected from Kaggle.
+        * We have to build a model to predict whether the LenderClub company should give the loans to their customer or not.
+        * I have used ANN to build the model.
+        * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Model Creation,Model Evaluation is well explained.
+        * Hyperparameter Tuning is also done to better fit the parameter.
+        * Lastly i have used **Tensorboard** library to better visualize the model by looking at the image,graphs,projections,histograms and so many other things. 
+        
+              
       
       
