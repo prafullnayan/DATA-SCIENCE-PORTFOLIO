@@ -27,7 +27,8 @@ Repository containing portfolio of data science projects completed by me for aca
          * The data is combined(across the years and states) and largely clean version of the Historical Daily Ambient Air Quality Data released by the Ministry of Environment              and Forests and Central Pollution Control Board of India under the National Data Sharing and Accessibility Policy (NDSAP) year 2016-2020
          * To do data analysis on India Air Quality data by viewing concentration of sulphur dioxide,nitrogen dioxide, respirable suspended particualte matter, suspended                    particulate matter and classify the Air Quality as good, moderate, poor, unhealthy, healthy.
          * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Model Creation,Model Evaluation is well explained.
-         * Various Machine Learning Models are built and compared with each other with the help of evaluation metrics. 
+         * Various Machine Learning Models are built and compared with each other with the help of evaluation metrics.
+         
            
       
       
