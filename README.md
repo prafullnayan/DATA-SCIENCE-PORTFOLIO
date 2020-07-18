@@ -5,7 +5,7 @@ Repository containing portfolio of data science projects completed by me for aca
 ## TABLE OF CONTENTS
 
 1. **ML  Project**
-    1.  Airplane Accidents[https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/AirplaneAccident.ipynb]
+    1.  [Airplane Accidents](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/AirplaneAccident.ipynb)
         * Data set is collected from Kaggle.
         * We have to predict airplan accident Severity base on different features.
         * Severity is of four types,so it's a multiclass classification problem.
