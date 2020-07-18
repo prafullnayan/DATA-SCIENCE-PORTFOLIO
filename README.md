@@ -27,7 +27,11 @@ Repository containing portfolio of data science projects completed by me for aca
         * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Model Creation,Model Evaluation is well explained.
         * Hyperparameter Tuning is also done to better fit the parameter.
         * Lastly i have used **Tensorboard** library to better visualize the model by looking at the image,graphs,projections,histograms and so many other things.
-     2. * [Fashion MNIST](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/Deep%20Learning%20Projects/Fashion_MNIST.ipynb)
+     2. [Fashion MNIST](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/Deep%20Learning%20Projects/Fashion_MNIST.ipynb
+        * Dataset Contains ten types of fashion images.
+        * we have to build a model to predict the types of fashion shirt/top,Trouser,Pullover,Dress,coat,Sandal,shirt,sneaker,Bag,Ankle Boot.
+        * CNN model is built to predict the type of accessories.
+t
 3. **Data Analysis and Visualization** 
       1. [India Air Quality Index](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/India%20Air%20Quality%20(Project).ipynb)
          * The visualization was actually a work of my intership to a company named Thw Shaadi Times.
