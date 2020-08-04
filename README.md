@@ -39,7 +39,7 @@ t
          * To do data analysis on India Air Quality data by viewing concentration of sulphur dioxide,nitrogen dioxide, respirable suspended particualte matter, suspended                    particulate matter and classify the Air Quality as good, moderate, poor, unhealthy, healthy.
          * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Model Creation,Model Evaluation is well explained.
          * Various Machine Learning Models are built and compared with each other with the help of evaluation metrics.
-         
+ 4. **Natural Language Processing Projects*        
            
       
       
