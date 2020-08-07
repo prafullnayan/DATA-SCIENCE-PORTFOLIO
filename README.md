@@ -39,7 +39,11 @@ Repository containing portfolio of data science projects completed by me for aca
         * Main objective was to reduced the false negative value(model predicted to not pneumonic bit the person has pneumonic.)
         * This is achieved to high extent.
         * This is an end to end project from data wrangling o deployment on heroku.
-        
+     4. [Malaria Prediction](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/Deep%20Learning%20Projects/malaria_prediction.ipynb) 
+        * We have tp predict whether a person is suffering from Malaria disease.
+        * we have given malaria image cells from which have to train a model.
+        * I have built a CNN model,Data Augmentation is done.
+        * At last model is evaluated.
 
 3. **Data Analysis and Visualization** 
       1. [India Air Quality Index](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/India%20Air%20Quality%20(Project).ipynb)
@@ -50,6 +54,13 @@ Repository containing portfolio of data science projects completed by me for aca
          * Various Machine Learning Models are built and compared with each other with the help of evaluation metrics.
  4. **Natural Language Processing Projects**        
       1. [Spam Detection](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/spam%20detection(model%20comparison%2Ctext%20cleaning).ipynb)
-      2. [Sentiment Analysis](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/movie%20review%20sentiment%20analysis.ipynb)
+         * We have to predict whether a mail is spam or ham.
+         * Bag of Words approach is used.
+         * Different models like logistic,svm,knn,random forest,decision trees,naive bayes,adaboost,Xg boost,extra tree classifier is trained.
+         * Comaprison between models is done and best model is choosen based on classification report.
+      2. [Sentiment Analysis ON IMBD Movie reviews](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/movie%20review%20sentiment%20analysis.ipynb)
+         * Sentiment analysis is done on a IMDB reviews whether the review is positive or negative.
+         * Different models like logistic,svm,knn,random forest,decision trees,naive bayes,adaboost,Xg boost,extra tree classifier is trained.
+         * Comaprison between models is done and best model is choosen based on classification report. 
       
       
