@@ -38,6 +38,8 @@ Repository containing portfolio of data science projects completed by me for aca
         * Hyperparameter tuning is done with the help of Keras Tuner.
         * Main objective was to reduced the false negative value(model predicted to not pneumonic bit the person has pneumonic.)
         * This is achieved to high extent.
+        * This is an end to end project from data wrangling o deployment on heroku.
+        
 
 3. **Data Analysis and Visualization** 
       1. [India Air Quality Index](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/India%20Air%20Quality%20(Project).ipynb)
@@ -47,6 +49,7 @@ Repository containing portfolio of data science projects completed by me for aca
          * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Model Creation,Model Evaluation is well explained.
          * Various Machine Learning Models are built and compared with each other with the help of evaluation metrics.
  4. **Natural Language Processing Projects**        
-           
+      1.[Spam Detection](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/spam%20detection(model%20comparison%2Ctext%20cleaning).ipynb)
+      2.[Sentiment Analysis](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/movie%20review%20sentiment%20analysis.ipynb)
       
       
