@@ -31,7 +31,14 @@ Repository containing portfolio of data science projects completed by me for aca
         * Dataset Contains ten types of fashion images.
         * we have to build a model to predict the types of fashion shirt/top,Trouser,Pullover,Dress,coat,Sandal,shirt,sneaker,Bag,Ankle Boot.
         * CNN model is built to predict the type of accessories.
-t
+     3. [Pneumonia Prediction(chest Xray)](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/Deep%20Learning%20Projects/Pneumonia%20Detection(final).ipynb)
+        * In this project we have to predict whether a person is suffering from pneumonia or not .
+        * I have used CNN to train the chest Xray images.
+        * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Data Augmentation ,Model Creation,Model Evaluation is Done.
+        * Hyperparameter tuning is done with the help of Keras Tuner.
+        * Main objective was to reduced the false negative value(model predicted to not pneumonic bit the person has pneumonic.)
+        * This is achieved to high extent.
+
 3. **Data Analysis and Visualization** 
       1. [India Air Quality Index](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/India%20Air%20Quality%20(Project).ipynb)
          * The visualization was actually a work of my intership to a company named Thw Shaadi Times.
@@ -39,7 +46,7 @@ t
          * To do data analysis on India Air Quality data by viewing concentration of sulphur dioxide,nitrogen dioxide, respirable suspended particualte matter, suspended                    particulate matter and classify the Air Quality as good, moderate, poor, unhealthy, healthy.
          * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Model Creation,Model Evaluation is well explained.
          * Various Machine Learning Models are built and compared with each other with the help of evaluation metrics.
- 4. **Natural Language Processing Projects*        
+ 4. **Natural Language Processing Projects**        
            
       
       
