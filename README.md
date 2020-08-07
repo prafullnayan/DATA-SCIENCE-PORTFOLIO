@@ -49,7 +49,7 @@ Repository containing portfolio of data science projects completed by me for aca
          * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Model Creation,Model Evaluation is well explained.
          * Various Machine Learning Models are built and compared with each other with the help of evaluation metrics.
  4. **Natural Language Processing Projects**        
-      1.[Spam Detection](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/spam%20detection(model%20comparison%2Ctext%20cleaning).ipynb)
-      2.[Sentiment Analysis](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/movie%20review%20sentiment%20analysis.ipynb)
+      1. [Spam Detection](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/spam%20detection(model%20comparison%2Ctext%20cleaning).ipynb)
+      2. [Sentiment Analysis](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/movie%20review%20sentiment%20analysis.ipynb)
       
       
