@@ -52,6 +52,9 @@ Repository containing portfolio of data science projects completed by me for aca
          * To do data analysis on India Air Quality data by viewing concentration of sulphur dioxide,nitrogen dioxide, respirable suspended particualte matter, suspended                    particulate matter and classify the Air Quality as good, moderate, poor, unhealthy, healthy.
          * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Model Creation,Model Evaluation is well explained.
          * Various Machine Learning Models are built and compared with each other with the help of evaluation metrics.
+      2. [Covid19 Data Analysis and Vsualization](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/covid19%20data%20analysis%20notebook.ipynb)
+         * Analyzed and visualized the spreading of corona virus across different countries.
+         * Countries which are more prone to the infection have which type of arrangements in their countries like their GDP,Health,Life Expectency.
  4. **Natural Language Processing Projects**        
       1. [Spam Detection](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/NLP%20Projects/spam%20detection(model%20comparison%2Ctext%20cleaning).ipynb)
          * We have to predict whether a mail is spam or ham.
