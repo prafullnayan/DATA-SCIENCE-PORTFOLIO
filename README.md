@@ -65,5 +65,9 @@ Repository containing portfolio of data science projects completed by me for aca
          * Sentiment analysis is done on a IMDB reviews whether the review is positive or negative.
          * Different models like logistic,svm,knn,random forest,decision trees,naive bayes,adaboost,Xg boost,extra tree classifier is trained.
          * Comaprison between models is done and best model is choosen based on classification report. 
+ 5. **Independent Project
+    1. [Chatbot with the help of python and Rasa](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/tree/master/chatbot/timezonebot)
+        * Fully working chatbot to tell the time zones of any cities in the world.
+        
       
       
