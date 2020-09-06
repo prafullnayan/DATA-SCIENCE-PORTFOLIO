@@ -1,0 +1,55 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - find_time_zone
+  - find_time_zone_for_location
+  - city_info
+  - thanks
+
+actions:
+  - action_finding_time_zone
+
+entities:
+  - city
+slots:
+  city:
+    type: text
+    auto_fill: True
+
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great,How can I help you"
+
+  utter_goodbye:
+  - text: "Bye hope to see you again!!!"
+  utter_goodbye_deny:
+  - text: "OOUCH!!sorry to hear that,How can i help you with time zone?"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+  utter_ask_location:
+  - text: "Could you please give the name of the city you want to find time zone for?"
+  utter_finding_time_zone:
+  - text: "thanks,let me look it up for the time zone of {city}"
+  utter_you_are_welcome:
+  - text: "loved to help you!!!!!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
