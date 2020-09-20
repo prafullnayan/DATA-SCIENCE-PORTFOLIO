@@ -31,7 +31,7 @@ Repository containing portfolio of data science projects completed by me for aca
         * Dataset Contains ten types of fashion images.
         * we have to build a model to predict the types of fashion shirt/top,Trouser,Pullover,Dress,coat,Sandal,shirt,sneaker,Bag,Ankle Boot.
         * CNN model is built to predict the type of accessories.
-     3. [Pneumonia Prediction(chest Xray)](https://github.com/prafullnayan/DATA-SCIENCE-PORTFOLIO/blob/master/Deep%20Learning%20Projects/Pneumonia%20Detection(final).ipynb)
+     3. [Pneumonia Prediction(chest Xray)](https://github.com/prafullnayan/pneumonnia-detection)
         * In this project we have to predict whether a person is suffering from pneumonia or not .
         * I have used CNN to train the chest Xray images.
         * Data Wrangling,Data Cleaning,EDA(Exploratory Data Analysis),Feature Engineering,Data Preprocessing,Data Augmentation ,Model Creation,Model Evaluation is Done.
